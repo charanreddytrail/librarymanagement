@@ -1,0 +1,8 @@
+# Ignore dependencies
+vendor/
+
+# Ignore Firebase credentials (DO NOT push this to GitHub)
+firebase-adminsdk.json
+
+# Ignore environment variables file (if using dotenv)
+.env
