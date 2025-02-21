@@ -1,0 +1,17 @@
+{
+    "name": "vendor/project",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "charan"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^5.26",
+        "phpoffice/phpspreadsheet": "^4.0"
+    }
+}
